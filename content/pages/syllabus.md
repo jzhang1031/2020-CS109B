@@ -13,7 +13,7 @@ CS 109b, AC 209b, Stat 121b, or CSCI E-109b
 **Lab Leaders:** Chris Tanner & Eleni Kaxiras
 
 
-**Lectures:** Mon and Wed 1:30‐2:45pm in NW B103<br/><br/>
+**Lectures:** Mon and Wed 1:30‐2:45pm in NW B103<br/>
 **Labs:** Monday 4:30-5:45pm & 6:00-7:15pm in Pierce Hall 301 (identical material at both times)<br/>
 **Advanced Sections:** Wed 4:30-5:45pm Location TBD<br/>
 **Office Hours:** TBD
@@ -72,6 +72,8 @@ Upon successful completion of this course, you should feel comfortable with the 
 
 ### Course Components <a name='course-components'></a>
 There will be live video feed available only to continuing education students for lectures, labs, and advanced sections. Recordings for all other students will be available within 24 hrs.
+<br/>
+Video streams and recordings can be accessed from the <a href="https://canvas.harvard.edu/courses/65462/external_tools/61068">Videos</a> section on Canvas.
 
 #### Lectures <a name='lectures'></a>
 The class meets twice a week for lectures. Attending lectures is a crucial component of learning the material presented in this course.
